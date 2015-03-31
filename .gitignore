@@ -141,6 +141,8 @@ skin/frontend/default/modern/
 skin/frontend/enterprise
 skin/install/
 var/
+.htaccess
+.htaccess.sample
 
 ### osx ###
 .DS_Store
