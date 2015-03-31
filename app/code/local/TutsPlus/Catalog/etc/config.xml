@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <models>
+            <catalog>
+                <rewrite>
+                    <category>TutsPlus_Catalog_Model_Category</category>
+                </rewrite>
+            </catalog>
+        </models>
+    </global>
+</config>
